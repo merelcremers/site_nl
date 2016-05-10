@@ -1,0 +1,2340 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "2.9",
+    "versionPublish": "2.9",
+    "name": "NEW_nl",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-151x151-92.png",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74260233-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "publishType": "local",
+    "publishPath": "file:///Users/Merel/Pictures/Website/NEW/Site_nl",
+    "path": "file:///Users/Merel/Pictures/Website/NEW/Site_nl",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "merel cremers, start, index, pagine, website, keramiek, porselein, dieren, illustratie, design, product, kunst, kunstenaar werk, gallerie, beelden, afbeeldingen, commissie, opdracht, inhuren informatie, event, expositie, tentoonstelling, verkoop",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "60px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-size": "22px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-2",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-index-1600x871-3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.3",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "MEREL CREMERS",
+          "text": "Keramiek, illustratie.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#cc6632"
+            },
+            ".mbr-article P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-article DIV": {
+              "color": "#cc6632"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-19",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": false,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "EASY TO USE!",
+          "meta": "",
+          "text": "<blockquote><p>\"Ik ben een jonge toegepast kunstenaar die zich voornamelijk uitdrukt in keramiek gecombineerd met illustratief ontwerp.</p><p>Mijn positie binnen deze twee dimensies is een zoekende naar een soort 'gouden middenweg' die zich vooral manifesteert in semi-functionele objecten, vaak servies-gerelateerd, die ook als puur visuele werken aanschouwd kunnen worden.</p><p>Een rode draad binnen mijn werk zijn dieren of beter gezegd de relatie tussen mens en dier in al haar uitingsvormen.\"</p></blockquote>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-3",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        }
+      ]
+    },
+    "contact.html": {
+      "settings": {
+        "title": "contact",
+        "meta_descr": "merel cremers, contact, informatie, email, telefoon, vraag, vragen, bericht, stuur, verstuur",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header2-14",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-contact-1600x1170-68.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "CONTACT",
+          "text": "Insert text.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-15",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".btn": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "form1-18",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false
+          },
+          "title": "<span style=\"font-weight: normal;\">CONTACT FORM</span>",
+          "form": {
+            "action": "bleumerle@gmail.com",
+            "alerts": {
+              "success": "Bedankt voor uw bericht! Ik zal zo snel mogelijk contact met u opnemen. Mvg, Merel"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Naam*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Bericht"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">STUUR</a>"
+        }
+      ]
+    },
+    "links.html": {
+      "settings": {
+        "title": "links",
+        "meta_descr": "merel cremers, links, vrienden, jella onderbeke, ilse depourcq, silke minnaert, diede coppens, elke seys, an-valerie vandromme, bezoeken, zoeken, social media, facebook, instagram, tumblr",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-16",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header2-17",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-links-1600x1200-74.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "LINKS<br><br>",
+          "text": "Insert text.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_inherit": "features1",
+          "_name": "content4",
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title .mbr-header__text SPAN": {
+              "text-align": "right",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "content4-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showHeader": false,
+            "showSubheader": false,
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "headerAlign": "left",
+          "header": "<br><br>",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3diede-960x960-28.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://551a2b80689b445fb49f9e0b680c03e6519f529a.googledrive.com/host/0Bzng52bVpsIgWkRYSER3bjBNWGM/",
+              "alt": "",
+              "title": "diede coppens",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title1": "<span style=\"font-weight: normal;\">DIEDE</span> <span style=\"font-weight: normal;\">COPPENS</span>",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4elke-960x960-87.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://acb8e0c45ca8c264259518602a6cce06818c98f6.googledrive.com/host/0B-T0_wahdDYGMkZxTWVKSkFVb1k/",
+              "alt": "",
+              "title": "elke seys",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title2": "<span style=\"font-weight: normal;\">ELKE</span> <span style=\"font-weight: normal;\">SEYS</span>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2ilse-960x960-99.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://ilsedepourcq.com/index.html",
+              "alt": "",
+              "title": "ilse depourcq",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title3": "<span style=\"font-weight: normal;\">ILSE</span> <span style=\"font-weight: normal;\">DEPOURCQ</span>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1silke-960x960-28.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "https://00c459227115e1d7ff4f165f6c03330b2ee94025.googledrive.com/host/0BxFs9AYnIigSaFBybHotT0xIUk0/",
+              "alt": "",
+              "title": "silke minnaert",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title4": "<span style=\"font-weight: normal;\">SILKE</span> <span style=\"font-weight: normal;\">MINNAERT</span>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5jella-960x960-67.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.jellaonderbeke.be/",
+              "alt": "",
+              "title": "jella onderbeke",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title5": "<span style=\"font-weight: normal;\">JELLA ONDERBEKE</span>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6anva-960x960-29.jpg",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "http://www.avandromme.be/",
+              "alt": "",
+              "title": "an-valerie vandromme",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "title6": "<span style=\"font-weight: normal;\">AN-VALERIE VANDROMME&nbsp;</span>",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>"
+        },
+        {
+          "_name": "social-buttons2",
+          "_styles": {
+            ".mbr-header__text": {
+              "font-size": "20px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-header__text SPAN": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "social-buttons2-21",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "<span style=\"font-weight: normal;\">VOLG MIJ VIA &nbsp;</span><span style=\"font-weight: normal;\">SOCIAL MEDIA</span>",
+          "icons": " <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/merlemerelcremers/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/merdevogel/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://bleumerle.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a>  "
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-18",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        }
+      ]
+    },
+    "shop.html": {
+      "settings": {
+        "title": "shop",
+        "meta_descr": "merel cremers, shop, winkel, webshop, wholesale, wederverkoop, stock, stockists, product,en product, verkopen, te koop, handgemaakt, handwerk, craft, keramiek, porselein, illustratie, servies, serviesgoed, kopje, bord, borden, kom, schaal, design, stijl, interieur, huis, cadeau, cadeaus, verjaardag, juwelen, ring, ketting, oorbellen, dier, dieren, cute, schattig, konijn, vos, hond, kat, hert, bos, natuur",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-22",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header2-23",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-shop-1600x1175-39.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "ABOUT",
+          "text": "Insert text.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "text-align": "center",
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "header3-26",
+          "title": "<span style=\"font-weight: normal;\">WEDERVERKOOP</span><span style=\"font-weight: normal;\"><br></span>",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Bij interesse in wederverkoop neem aub contact met mij op via het contactformulier &nbsp;<a href=\"contact.html\" class=\"text-danger\">hier</a>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            "DIV": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            "UL": {
+              "text-align": "right",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content1-27",
+          "text": "<p><br></p><p>HUIDIGE VERKOOPPUNTEN:</p><ul><li><a href=\"http://www.curiosa-co.be/curiosa-co.html\" class=\"text-danger\">Curiosa&amp;co,</a> Gent, BE</li><li><a href=\"https://www.facebook.com/fatima.gent\" class=\"text-danger\">Fatima,</a> Gent, BE</li><li><a href=\"http://www.nieuwevide.nl/shop\" class=\"text-danger\">De Nieuwe Vide,</a> Haarlem, NL</li><li><a href=\"http://spekdesign.nl/\" class=\"text-danger\">Spek design,</a> Venlo, NL</li><li><a href=\"http://www.dezeeuwsemeisjes.com/\" class=\"text-danger\">De Zeeuwse Meisjes,</a> Rotterdam, NL</li><li><br></li></ul><p><br></p>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-24",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        }
+      ]
+    },
+    "keramiek.html": {
+      "settings": {
+        "title": "keramiek",
+        "meta_descr": "merel cremers, keramiek, aardewerk, potten, keramist, design, product, servies, installatie, kunst, toegepaste kunst, bord, kopje, kom, bord, schaal, sculptuur, glazuur, klei, onderzoek, materiaal, vuur, stoken, oven, materiaal, temperatuur",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "84px",
+              "text-align": "left"
+            },
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-5",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-ceramics-1600x1200-25.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Keramiek",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content1-66",
+          "text": "<p>Gedurende de afgelopen jaren ben ik meer en meer geïnteresseerd in 3dimensionaal te werken, enerzijds door zulke elementen te koppelen aan serviesgoed of door sculpturen in de tafelsituatie binnen te brengen die deze overnemen.</p><p>Ik richt mij op een narratieve tafel setting die een extra dimensie aan de eet-‘experience’ toevoegt die ervoor zorgt dat je de manier waarop we de maaltijd benaderen herdenkt.</p><p>Experimenteren vind ik het leukste om te doen, door het materiaal te testen nieuwe mogelijkheden ontdekken. I ben mij er steeds meer van bewust dat werken met keramiek een negatieve impact op onze omgeving heeft dus de laatste tijd probeer ik meer manieren te vinden om met gerecycleerd servies te werken. Als ik een basisvorm nodig heb dan kan ik net zo goed een reeds bestaande vorm gebruiken, waarmee ik deze ook een tweede leven geef.</p><p><br></p>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "72px"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-48",
+          "title": "<span style=\"font-weight: normal;\"><br></span><span style=\"font-weight: normal;\"><br>2016</span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#252525",
+              "text-align": "right",
+              "font-size": "14px"
+            },
+            "I": {
+              "color": "#252525",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "image2-50",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2-1368x1049-29.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "\"Concetta\" werk<i>&nbsp;geinspieerd door Lucio Fontane .</i>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/3-1235x1049-16-1235x1049-58.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-1235x1049-16.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/4-1235x1049-7-1235x1049-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1235x1049-7.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/8-1235x1049-2-1235x1049-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-1235x1049-2.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/9-1235x1049-19-1235x1049-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/9-1235x1049-19.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-49",
+          "articleLayout": false
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "8px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#252525",
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "header3-51",
+          "title": "plates",
+          "_params": {
+            "showMeta": true
+          },
+          "meta": "Een serie tests die voedselresten op gerecycled servies nabootsen."
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#252525",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "image2-41",
+          "_params": {
+            "outside": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/food-stains-867x464-53.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "center"
+            },
+            "BLOCKQUOTE": {
+              "color": "#cc6632"
+            }
+          },
+          "_anchor": "content1-52",
+          "text": "<p><br></p><p><br></p><p>---</p><p><br></p>"
+        },
+        {
+          "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "font-size": "14px",
+              "color": "#252525",
+              "text-align": "left",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "image1-49",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1groot-1600x1177-37.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Wezel fret -achtig sculptuur."
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1-1600x1067-55-1600x1067-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1600x1067-55.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/2-1600x1067-81-1600x1067-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1600x1067-81.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/3-1600x1067-77-1600x1067-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-1600x1067-77.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/4-1600x1067-5-1600x1067-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1600x1067-5.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-50",
+          "articleLayout": false
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "80px"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-29",
+          "title": "<span style=\"font-weight: normal;\"><br>2015</span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#252525",
+              "font-size": "15px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "image2-59",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/equin-2809x2000-70.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "\"Equinox\" installatie gemaakt tijdens uitwisseling op HDK in Göteborg, Zweden."
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/equin1-1-1060x1600-64.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/equin2-2-1600x2414-90.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/equin3-3-1060x1600-57.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "showBullets": false
+          },
+          "_anchor": "slider2-57",
+          "articleLayout": true
+        },
+        {
+          "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "color": "#252525",
+              "font-size": "16px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "image1-58",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/equin4-2399x1600-34.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<br>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#252525",
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "content1-60",
+          "text": "<p><br></p><p><br></p><p>---</p><p><br></p><p><br></p><div><br></div>"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#252525",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "image2-54",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tafel-start-1600x1200-3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Onderzoek naar ons dagelijks servies aan de hand van methoden die we tijdens het koken gebruiken."
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/1-1600x1049-52-1600x1049-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1600x1049-52.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/4-1600x1055-35-1600x1055-46.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1600x1055-35.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00401-1600x1057-60-1600x1057-61.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00401-1600x1057-60.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00418-1600x1066-53-1600x1066-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00418-1600x1066-53.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00419-1600x1067-79-1600x1067-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00419-1600x1067-79.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00430-1600x1067-99-1600x1067-45.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00430-1600x1067-99.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00431-1600x1056-64-1600x1056-39.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00431-1600x1056-64.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/dsc00434-1600x1067-47-1600x1067-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc00434-1600x1067-47.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-28",
+          "articleLayout": true
+        },
+        {
+          "_name": "image1",
+          "_anchor": "image1-62",
+          "_params": {
+            "outside": false,
+            "bgColor": "#252525",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/tafel-eind-2400x1600-76.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "80px"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-30",
+          "title": "<br><span style=\"font-weight: normal;\">2014</span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/nr1-1600x1338-49.jpg",
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nr2-1600x1338-41.jpg",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/nr3-1600x1338-27.jpg",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "showBullets": false
+          },
+          "_anchor": "slider2-52",
+          "articleLayout": true
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-6",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "14px",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "image2-61",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3-1600x1200-70.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Triptiek van servies gerelateerde vormen met de nadruk op oppervlakte en textuur.<br><br><br>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "84px"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-65",
+          "title": "<br><span style=\"font-weight: normal;\">2012<br></span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "text-align": "right",
+              "color": "#252525",
+              "font-size": "15px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "image2-64",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/2014-fig-1600x1194-39.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Figuurtje."
+        }
+      ]
+    },
+    "illustratie.html": {
+      "settings": {
+        "title": "illustratiie",
+        "meta_descr": "merel cremers, illustratie, design, grafisch, tekenen, schilderen, kunst, potlood, verf, kleur, dieren, vertelling, verhaal, foto, afbeelding, origineel, kat, hond, konijn, vos, hert, opdracht, tijdschrift, kinderboek, magazine, boek, krant, folder",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "left",
+              "font-size": "84px"
+            },
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "header2-8",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-illustration-1600x1131-11.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "center",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "Illustratie",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "color": "#cc6632"
+            }
+          },
+          "_anchor": "content1-67",
+          "text": "<p>Al zolang ik mij kan herinneren teken ik dieren. De enorme diversiteit maakt hen voor mij tot interessante vormen om te tekenen en mee te experimenteren. Wat ik zo tof vind aan illustratie is dat 't de mogelijkheid bied je imaginaire dingen of situaties te verzinnen die nooit echt zouden kunnen plaatsvinden, kunnen dat echter wel op papier.</p><p>Met betrekking tot illustratie in opdracht, dat is een richting die ik graag weer op zou pakken maar momenteel vraagt de keramiek mijn volledige aandacht en gebruikt ik tekenen enkel als aanvulling of juist als uitlaatklep ten opzichte van mijn keramisch werk.</p><p><br></p>"
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-39",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">2016</span><br><span style=\"font-weight: normal;\"> &nbsp;</span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "color": "#000000",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "15px",
+              "text-align": "right"
+            }
+          },
+          "_anchor": "image2-60",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/hare-1245x1049-82.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Het haasje.<br><br><br><br>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "",
+                "thumb": "@PROJECT_PATH@/assets/images/2-1600x1211-12-1600x1211-68.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-1600x1211-12.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1600x1211-57-1600x1211-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-1600x1211-57.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1600x1211-51-1600x1211-67.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-1600x1211-51.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1600x1211-2-1600x1211-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-1600x1211-2.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-65",
+          "articleLayout": true
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            },
+            "SPAN": {
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-69",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><br><br><span style=\"font-weight: normal;\"><br>2014</span><span style=\"font-weight: normal;\"><br></span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": "By John Smith posted July 30, 2015"
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#252525",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "image2-73",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/moeder-1103x1428-96.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Moederpoes.<br><br><br><br>"
+        },
+        {
+          "_name": "image1",
+          "_styles": {
+            "SMALL": {
+              "font-size": "16px",
+              "color": "#252525",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            }
+          },
+          "_anchor": "image1-70",
+          "_params": {
+            "outside": true,
+            "bgColor": "#ffffff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/landschaphuis-2033x1309-71.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<br><br><br><br>"
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vos1-1600x1131-39-1600x1131-32.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vos1-1600x1131-39.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vos2-1600x1131-24-1600x1131-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vos2-1600x1131-24.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vos3-1600x1131-65-1600x1131-3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vos3-1600x1131-65.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/vos4-1600x1131-18-1600x1131-70.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vos4-1600x1131-18.jpg",
+                "active": true
+              }
+            ],
+            "showText": false,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-71",
+          "articleLayout": false
+        },
+        {
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "color": "#252525",
+              "font-size": "72px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-72",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>2013</p><p><br></p>"
+        },
+        {
+          "_inherit": "slider",
+          "_afterNavbarItem": ".mbr-slider",
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/1klein-1600x1128-25.jpg",
+                "contentAlign": "right",
+                "overlay": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "showText": false,
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2klein-1600x1128-52.jpg",
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "Slide 2",
+                "showText": false,
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/3klein-1600x1128-18.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/4klein-1600x1128-20.jpg",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Slide 3",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "showBullets": false
+          },
+          "_anchor": "slider2-62",
+          "articleLayout": true
+        },
+        {
+          "_name": "header3",
+          "_styles": {
+            "H3": {
+              "text-align": "center",
+              "font-size": "72px"
+            }
+          },
+          "_anchor": "header3-67",
+          "title": "<span style=\"font-weight: normal;\"><br></span><br><span style=\"font-weight: normal;\">2012</span>",
+          "_params": {
+            "showMeta": false
+          },
+          "meta": ""
+        },
+        {
+          "_name": "image2",
+          "_styles": {
+            "SMALL": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "color": "#252525",
+              "text-align": "center",
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "image2-68",
+          "_params": {
+            "outside": true,
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dodo-1600x1600-86.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <br><span style=\"line-height: 1.3em;\"><br></span><br><span style=\"line-height: 1.3em;\">Project \"Extinction\"</span><br><br>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "images": [
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo4-1600x1199-2-1600x1199-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo4-1600x1199-2.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo3-1600x1199-31-1600x1199-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo3-1600x1199-31.jpg",
+                "active": false
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo2-1600x1199-65-1600x1199-99.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo2-1600x1199-65.jpg",
+                "active": true
+              },
+              {
+                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/dodo1-1600x1199-50-1600x1199-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dodo1-1600x1199-50.jpg",
+                "active": false
+              }
+            ],
+            "showText": false,
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery2-74",
+          "articleLayout": true
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        }
+      ]
+    },
+    "over.html": {
+      "settings": {
+        "title": "over",
+        "meta_descr": "merel cremers, over, kunstenaar, designer, ontwerper, informatie, opleiding, cv, curriculum vitae, expositie, tentoonstelling gallerie, beurzen",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#ffffff"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__items a": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-10",
+          "_params": {
+            "color": "#ffffff",
+            "hamburgerColor": "#ffffff",
+            "transparent": true,
+            "sticky": true,
+            "collapsed": false,
+            "logo": false,
+            "showBrand": false,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">START</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"keramiek.html\">KERAMIEK</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"illustratie.html\">ILLUSTRATIE</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"over.html\">OVER</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"contact.html\">CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"links.html\">LINKS</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-black\" data-app-selector=\".mbr-navbar__items a\" href=\"shop.html\">SHOP</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_styles": {
+            "H1": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#cc6632",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px",
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header2-11",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg-about-1600x957-16.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "contentAlign": "right",
+            "overlay": true,
+            "overlayOpacity": "0.2",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": false
+          },
+          "title": "OVER<br><br>",
+          "text": "merel",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#777777",
+              "font-size": "16px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            },
+            ".btn": {
+              "font-size": "14px",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-article": {
+              "text-align": "right",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "16px"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-45",
+          "_params": {
+            "showCaption": true,
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "<span style=\"font-weight: normal;\">CV | CURRICULUM VITAE</span>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Merel Cremers <br>geboren in Nederland, 1989 <br>momenteel woonachtig en werkende in Gent, Belgïe</p><p> </p><p>OPLEIDING_ <br>2007 - 2011 bachelor in illustration verkregen aan de AKV | ST. Joost in 's-Hertogenbosch, NL <br>2011 - 2012 deelname aan het post-diplome 'Kaolin' aan l'ENSA in Limoges, FR <br>2014 - 2017 master in keramiek &amp; glaskunst aan de LUCA School of Arts in Gent, BE</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD PDF</a>"
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700",
+              "font-size": "12px",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "footer1-12",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "<p><span style=\"line-height: 1.5em;\">Copyright © 2016 Merel Cremers | &nbsp;</span><a href=\"http://creativecommons.org/licenses/by-nc-nd/4.0/\" class=\"text-black\" style=\"line-height: 1.5em; background-color: rgb(255, 255, 255);\">Privacy Policy</a><br><b>Nederlands &nbsp; | &nbsp; <a href=\"http://merelcremers.github.io/site\" class=\"text-black\">English</a></b></p>"
+        }
+      ]
+    }
+  }
+}
